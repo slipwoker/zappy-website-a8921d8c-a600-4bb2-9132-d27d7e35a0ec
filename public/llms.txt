@@ -1,0 +1,60 @@
+# Rinat Shaprut Adv. — Generative Engine Optimization Map
+
+> A legal services business.
+
+---
+
+## Pages
+
+### Home
+https://rinat-shaprut-adv-a8921d8c.zappy5.app
+Discover expert legal compliance services that deliver real results. Contact us today for a free consultation and protect your business.
+
+### Services
+https://rinat-shaprut-adv-a8921d8c.zappy5.app/services
+Comprehensive legal services including compliance, privacy law, estates, and hitech innovation. Expert guidance for your business needs.
+
+### About
+https://rinat-shaprut-adv-a8921d8c.zappy5.app/about
+Learn about our commitment to providing expert compliance, privacy, estates, and hitech legal services to businesses of all sizes.
+
+### Contact
+https://rinat-shaprut-adv-a8921d8c.zappy5.app/contact
+Get in touch for expert compliance, privacy, estates, and hitech legal services. Schedule your consultation today.
+
+## Legal & Policy
+
+### Privacy Policy
+https://rinat-shaprut-adv-a8921d8c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://rinat-shaprut-adv-a8921d8c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://rinat-shaprut-adv-a8921d8c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Rinat Shaprut Adv.
+Rinat Shaprut Adv. is a business in the legal services industry.
+
+## Target Audience
+- Small Business Owners
+- Real Estate Investors
+- Startup Founders
+- Professional Services Firms
+
+## Industry
+legal services
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://rinat-shaprut-adv-a8921d8c.zappy5.app/sitemap.xml
+- **Robots.txt**: https://rinat-shaprut-adv-a8921d8c.zappy5.app/robots.txt

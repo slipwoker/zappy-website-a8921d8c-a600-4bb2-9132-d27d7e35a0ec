@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rinat-shaprut-adv-a8921d8c.zappy5.app/sitemap.xml
